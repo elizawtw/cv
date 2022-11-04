@@ -22,7 +22,7 @@ h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   font-weight: normal;
-  margin-bottom:50px;
+  margin-bottom:80px;
 }
 
 h3 {
@@ -54,7 +54,7 @@ a:hover {
 
 .top-container {
   background-color: #E8FFFF;
-  padding-top: 70px;
+  padding: 70px 0;
   position: relative;
   
 }
@@ -98,11 +98,7 @@ a:hover {
   width: 20%;
 } */
 
-.fir {
-  position: absolute;
-  width: 10%;
-  
-}
+
 
 
 .mypic {
@@ -111,6 +107,7 @@ a:hover {
   padding-bottom: 10px;
   height:180px;
   width: 140px;
+  
 }
 
 .skills {
